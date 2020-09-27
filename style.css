@@ -1,0 +1,35 @@
+h1{
+    color:whitesmoke;
+   text-align: center; 
+}
+/*{
+    border:solid;
+}*/
+.header{
+   
+    background-image: url("V3YW.gif");
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  background-image: url("1j64.gif");
+}
+ 
+p,h2{
+    text-align: center;
+
+}
+.item{
+ /* background-image: url("ori\ bg.jpg");*/
+background-color: #ec3939;
+}
+.menu{
+   /*background-image: url("ori\ bg.jpg");*/
+  background-color:#000000;
+    text-align: justify;
+    
+}
